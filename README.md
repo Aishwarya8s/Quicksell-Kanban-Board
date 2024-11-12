@@ -22,22 +22,11 @@ A Kanban Board built using React.js. It has the following features:
 
 ## Setup Instructions
 ### Frontend
-- Step 1: Clone repo using `https://github.com/yash-seth/quicksell-frontend-task.git`
+- Step 1: Clone repo using `https://github.com/Aishwarya8s/Quicksell-Kanban-Board.git`
 - Step 2: Navigate to the folder and run `npm i` to install all required dependencies
 - Step 3: Run the frontend using `npm run start`
 
 ## Demo
 The platform has been hosted for demo purposes - https://quicksell-frontend-task-yash-seth.vercel.app/
+The app can be grouped based on status, ordered by Tile; grouped based on user ordered on Priority; and Grouped based on Priority, ordered based on Priority. The created app is hosted on vercel and has a responsive design can be used easily on Mobile screens as well.
 
-## Samples
-### Grouped on Status, Ordered on Title
-![image](https://github.com/yash-seth/quicksell-frontend-task/assets/71393551/8a002e12-799f-4423-bbba-c608883b0e7d)
-
-### Grouped on User, Ordered on Priority
-![image](https://github.com/yash-seth/quicksell-frontend-task/assets/71393551/e87e9721-2750-4767-a4e3-83d28d971d36)
-
-### Grouped on Priority, Ordered on Priority
-![image](https://github.com/yash-seth/quicksell-frontend-task/assets/71393551/e11095aa-360c-4f1e-8b31-7e0c6be5de05)
-
-### Phone Screen View (Responsive Design)
-![image](https://github.com/yash-seth/quicksell-frontend-task/assets/71393551/660337c5-71d7-4064-ad47-329982f8cf2a)
