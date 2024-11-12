@@ -27,6 +27,6 @@ A Kanban Board built using React.js. It has the following features:
 - Step 3: Run the frontend using `npm run start`
 
 ## Demo
-The platform has been hosted for demo purposes - https://quicksell-frontend-task-yash-seth.vercel.app/
+The platform has been hosted for demo purposes - https://quicksell-kanban-board-aish.vercel.app/
 The app can be grouped based on status, ordered by Tile; grouped based on user ordered on Priority; and Grouped based on Priority, ordered based on Priority. The created app is hosted on vercel and has a responsive design can be used easily on Mobile screens as well.
 
