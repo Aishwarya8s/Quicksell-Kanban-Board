@@ -11,7 +11,6 @@ A Kanban Board built using React.js. It has the following features:
   2. **Title**: Sort tickets in ascending order based on their title.
 - Responsive design for smaller screen sizes
 - Vanilla CSS styling
-- Icons from [Material UI icon](https://mui.com/material-ui/material-icons/)
 - Components structured in a reusable and maintainable manner
 - Persistance of State
 
